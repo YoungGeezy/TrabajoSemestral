@@ -1,0 +1,39 @@
+Hola profesora, por temas de almacenamiento, el trabajo lo tengo en esta direccion en mi disco duro:
+D:\Semestre\Desarrollo Web\Encargo 1
+Para probarlo correctamente, debe cambiar la direccion de los enlaces en el programa dependiendo la ubicacion de donde
+dejara la carpeta extraida, por ejemplo: C:\Users\dtran\Escritorio
+(Archivos estilos.css, app.js son los que hicimos propios para el proyecto de nosotros)
+PD: NO INSTALAR NADA SI LE PIDE AL EXTRAERLO, ESO ES DE LA PLANTILLA Y PARA FUTURO QUIZAS NOS SIRVA PARA EL PROYECTO
+
+=======================================================================
+CREDITOS:
+
+Free Bootstrap Landing Page Template for Developers & Startups
+
+Theme name:
+=======================================================================
+Appkit Landing
+
+Theme version:
+=======================================================================
+v2.2
+
+Release Date:
+=======================================================================
+27 April 2020
+
+Author: 
+=======================================================================
+Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+
+Contact:
+=======================================================================
+Web: http://themes.3rdwavemedia.com/
+Email: themes@3rdwavemedia.com
+Twitter: @3rdwave_themes
+
+License: 
+=======================================================================
+This template is 100% FREE as long as you keep the footer attribution link. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
+
+If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/startup/appkit-landing-free-bootstrap-theme-for-developers-and-startups/

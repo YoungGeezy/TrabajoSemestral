@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Formulario de Contacto</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="D:\Semestre\Desarrollo Web\Encargo 1\assets\css\estilos.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    
+</head> 
+
+<body>
+   <div class="contenedor">
+       <h1>Formulario Contacto</h1>
+       <div class="contenido"></div>
+       <div class="info">
+           <div class="col">
+            <i class="icono fas fa-map-marker-alt"></i>
+            <p>AV. Calle Falsa 123, Pudahuel. <br>Santiago, Chile</p>
+       </div>
+       <div class="col">
+        <i class="icono fas fa-envelope-square"></i>
+        <p>contac@incolumobile.cl</p>
+        </div>
+        <div class="col">
+            <i class="icono fas fa-mobile-alt"></i>
+            <p>(+569) 85294771 <br> (22)749-7865</p>
+       </div>
+
+       <div class="redes-s">
+           <a ref="#"><i class="fab fa-facebook"></i></a>
+           <a ref="#"><i class="fab fa-twitter"></i></a>
+           <a ref="#"><i class="fab fa-instagram"></i></a> 
+       </div>
+
+       <form action="" method="GET" class="formulario">
+           <input type="text" name="=nombre" placeholder="Nombre" id="nombre">
+           <input type="text" name="correo" placeholder="Correo Electronico" id="correo">
+           <input type="text" name="asunto" placeholder="Asunto" id="asunto">
+           <textarea type="text" name="mensaje" placeholder="Mensaje" id="mensaje"></textarea>
+           <button type="button" onclick="validarFormulario()" >Enviar</button> 
+
+       </form> 
+
+    </div>
+   </div>
+   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+   <script src="D:\Semestre\Desarrollo Web\Encargo 1\app.js"></script>
+   
+</body>
+</html> 
+
